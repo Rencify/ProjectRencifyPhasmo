@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectRencifyPhasmo", "UnityTester\ProjectRencifyPhasmo.csproj", "{4BC756E6-EF20-4DEA-9343-021F69896BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC756E6-EF20-4DEA-9343-021F69896BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC756E6-EF20-4DEA-9343-021F69896BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC756E6-EF20-4DEA-9343-021F69896BCC}.Debug|x64.ActiveCfg = Debug|x64
+		{4BC756E6-EF20-4DEA-9343-021F69896BCC}.Debug|x64.Build.0 = Debug|x64
+		{4BC756E6-EF20-4DEA-9343-021F69896BCC}.Debug|x86.ActiveCfg = Debug|x86
+		{4BC756E6-EF20-4DEA-9343-021F69896BCC}.Debug|x86.Build.0 = Debug|x86
+		{4BC756E6-EF20-4DEA-9343-021F69896BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC756E6-EF20-4DEA-9343-021F69896BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC756E6-EF20-4DEA-9343-021F69896BCC}.Release|x64.ActiveCfg = Release|x64
+		{4BC756E6-EF20-4DEA-9343-021F69896BCC}.Release|x64.Build.0 = Release|x64
+		{4BC756E6-EF20-4DEA-9343-021F69896BCC}.Release|x86.ActiveCfg = Release|x86
+		{4BC756E6-EF20-4DEA-9343-021F69896BCC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46F21D8D-C90F-4AF3-BCA4-E290B4BC96B8}
+	EndGlobalSection
+EndGlobal
