@@ -17,4 +17,4 @@ This is the external trainer written in C#, that is made for the game 'Phasmopho
 Open the .sln (solution) file in Visual Studio 2019. You may need to reference the MetroFramework & Bunifu DLL files if it doesn't pick it up already. Feel free to mess around with it and do whatever, but please don't take full credit if you leave it as it as and just change the name of the tool lol...
 
 # Credits
-Thanks to Coderbox1/Glatrix & Zephorit for their Cheat Tables, which gave me a few cool ideas for the trainer.
+Thanks to Coderbox1/Glatrix & Zephirot for their Cheat Tables, which gave me a few cool ideas for the trainer.
