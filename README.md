@@ -1,6 +1,6 @@
 # ProjectRencifyPhasmo
-This is the external trainer written in C#, that is made for the game 'Phasmophobia' - which is currently working on 0.26.8.1
-I didn't bother cleaning up the code or organising it better as I didn't think I was going to release the source to the public, but oh well there is it if you want to see how I made it. Hopefully it can help someone!
+This is the external trainer written in C#, that is made for the game 'Phasmophobia' - which is currently working on 0.26.8.1 - 
+I didn't bother cleaning up the code or organising it better as I didn't think I was going to release the source to the public, but oh well there it is if you want to see how I made it. Hopefully it can help someone!
 
 # Features
 - Player Stats Modifier (Rank/Money/Basketball/Items)
