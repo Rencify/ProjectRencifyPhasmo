@@ -16,10 +16,7 @@ namespace UnityTester
 //        ██████╔╝█████╗  ██╔██╗ ██║██║     ██║█████╗   ╚████╔╝ 
 //        ██╔══██╗██╔══╝  ██║╚██╗██║██║     ██║██╔══╝    ╚██╔╝  
 //        ██║  ██║███████╗██║ ╚████║╚██████╗██║██║        ██║   
-//        ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚═╝╚═╝        ╚═╝   
-//
-//      Hopefully, whoevers looking at this code isn't a skid/leech. If so, go fuck yourself you lil cunt.
-                                                      
+//        ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚═╝╚═╝        ╚═╝                                   
 
         public Form1()
         {
